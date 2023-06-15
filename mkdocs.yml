@@ -1,0 +1,7 @@
+site_name: 'bilal-podinfo-app Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
